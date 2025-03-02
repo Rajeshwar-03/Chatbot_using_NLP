@@ -50,5 +50,5 @@ License
 This project is open source and available under the MIT License.
 
 Contact
-For any questions or issues, please reach out via email at 22bk1a6611@stpetershyd.com
+For any questions or issues, please reach out via email at 22bk1a6611@stpeters.com
 
